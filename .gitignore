@@ -1,0 +1,10 @@
+# Power BI temp/lock files
+~$*.pbix
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large raw data (link to source instead of committing)
+/data/raw/
